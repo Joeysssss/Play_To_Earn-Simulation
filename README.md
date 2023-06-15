@@ -34,3 +34,8 @@
         return rewards; 
     } <br>
   ```
+## UI
+1. open UI server 
+```
+  yarn dev
+```
