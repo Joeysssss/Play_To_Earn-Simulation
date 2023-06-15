@@ -3,8 +3,8 @@
 ## Mining Contract
 1. Import thirdweb contract <br>
   ```
-  import "@thirdweb-dev/contracts/drop/DropERC1155.sol"; // For my collection of Pickaxes <br>
-  import "@thirdweb-dev/contracts/token/TokenERC20.sol"; // For my ERC-20 Token contract <br>
+  import "@thirdweb-dev/contracts/drop/DropERC1155.sol"; // For my collection of Pickaxes 
+  import "@thirdweb-dev/contracts/token/TokenERC20.sol"; // For my ERC-20 Token contract 
   import "@thirdweb-dev/contracts/openzeppelin-presets/utils/ERC1155/ERC1155Holder.sol";
   ```
 2. Calculate Rewards <br>
