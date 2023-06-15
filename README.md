@@ -39,4 +39,4 @@
 ```
   yarn dev
 ```
-![UI]([https://raw.githubusercontent.com/vd3007/OnlineStore-via-SmartContract/main/UI.png](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/game.jpg) "UI")
+![UI](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/game.jpg "")
