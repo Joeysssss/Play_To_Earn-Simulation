@@ -21,7 +21,7 @@
             return 0; 
         } 
 
-        // Calculate the time difference between now and the last time they staked/withdrew/claimed their rewards <br>
+        // Calculate the time difference between now and the last time they staked/withdrew/claimed their rewards 
         uint256 timeDifference = block.timestamp - 
             playerLastUpdate[_player].value;  
 
