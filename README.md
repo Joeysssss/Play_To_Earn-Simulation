@@ -39,4 +39,6 @@
 ```
   yarn dev
 ```
-![UI](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/game.jpg "")
+![UI](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/game.jpg "Equip")
+![UI](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/Owned.jpg "Owned")
+![UI](https://raw.githubusercontent.com/Joeysssss/Play_To_Earn-Simulation/main/photo/Shop.jpg "Shop")
